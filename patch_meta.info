@@ -1,0 +1,10 @@
+#from old version:cf1d91881fb2e5a6ca62f3b1c97337f6 to new version:cf1d91881fb2e5a6ca62f3b1c97337f6
+#Tue Mar 12 12:43:12 GMT+02:00 2024
+old=cf1d91881fb2e5a6ca62f3b1c97337f6
+is_remove_interpret_oat_dir=0
+print=samsung/o1sxxx/o1s\:12/SP1A.210812.016/G991BXXU3BUK8\:user/release-keys
+version_to_remove=
+use_custom_file_patch=0
+dir=odex
+is_protected_app=0
+new=cf1d91881fb2e5a6ca62f3b1c97337f6
